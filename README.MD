@@ -15,7 +15,7 @@ The Emoji Reaction Bot requires [Node.js](https://nodejs.org/) v4+ to run.
 ###### Don't forget to use the correct json syntax!
 ### Token
 Modify the `token` entry to the token of bot/discord account.
-##### Example:
+##### Example
 ```json
 "token": "NjAedsFDg1OTCWMfhFSDQ2.Xd3gWg.R0mdaI7fuYX2f7PgOsfhgdahfkc"
 ```
@@ -32,7 +32,7 @@ Modify the `token` entry to the token of bot/discord account.
 ```
 
 ### Delay
-The delay entry is used for the time *(in milliseconds)* to wait before the next reaction
+The `delay` entry is used for the time *(in milliseconds)* to wait before the next reaction
 ##### Example
 ```json
 "delay": 400
@@ -41,7 +41,7 @@ The delay entry is used for the time *(in milliseconds)* to wait before the next
 If you want to make the reaction bot channel specific then edit the `channel` entry to the id of the discord channel you wish to target. ***Applys to all channels by default***
 ##### Example
 ```json
-"channel": 720945410238613699
+"channel": "720945410238613699"
 ```
 ### Autoremove (Optional)
 This boolean entry can be used to specify if the reaction bot should delete the reaction after a short delay. ***False by default***
