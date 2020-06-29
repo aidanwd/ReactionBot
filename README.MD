@@ -14,7 +14,7 @@ The Emoji Reaction Bot requires [Node.js](https://nodejs.org/) v4+ to run.
 ## Configuration
 ###### Don't forget to use the correct json syntax!
 ### Token
-Modify the `token` entry to the token of your bot/selfbot
+Modify the `token` entry to the token of bot/discord account.
 ##### Example:
 ```json
 "token": "NjAedsFDg1OTCWMfhFSDQ2.Xd3gWg.R0mdaI7fuYX2f7PgOsfhgdahfkc"
