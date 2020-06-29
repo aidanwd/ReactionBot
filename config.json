@@ -1,0 +1,7 @@
+{
+    "token": "discordToken",
+    "channel": null,
+    "emoji": "😋",
+    "delay": 400,
+    "autoremove": true
+}
