@@ -1,5 +1,5 @@
 # Emoji React Bot
-[![GitHub release](https://img.shields.io/github/v/release/aidanwd/ReactionBot)](https://github.com/aidanwd/ReactionBot/releases/)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/aidanwd/ReactionBot?include_prereleases)
 
 A free open source [***discord.js***](https://discord.js.org/#/) reaction bot!
 
